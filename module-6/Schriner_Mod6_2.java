@@ -58,7 +58,7 @@ public class Schriner_Mod6_2 {
         }
 
         // Getter and setter for On
-        public boolean On() {
+        public boolean getOn() {
             return On;
         }
 
